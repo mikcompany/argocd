@@ -50,4 +50,5 @@ spec:
         backend:
           service:
             name: my-nginx
-            port: 80
+            port: 
+              number: 80
