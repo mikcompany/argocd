@@ -51,4 +51,4 @@ spec:
           service:
             name: my-nginx
             port:
-              name: https
+              name: http
